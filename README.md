@@ -5,7 +5,7 @@ Matthew Rice, mhrice@ucsd.edu
 ## Abstract Proposal
 
 For my final project, I will revist the music generation assignment. I would like to create a real-time version of this project, in that I play piano or bassline "licks", and the model will generate drum tracks to "accompany" my licks. Then I will have a separate model generate new licks and then the original model generate new drum tracks to the new rif, creating an AI jam session. This model expands on the idea of using RNN/LSTM to generate music by allowing two such instances of these models to generate music for themselves. 
-FIRST STEP: Write up a description (in the form of an abstract) of what you will revisit for your final project. I will present this work by bringing my audio equipment to class and starting the "jam session" with a couple riffs. 
+FIRST STEP: Write up a description (in the form of an abstract) of what you will revisit for your final project. I will present this work by bringing my audio equipment to class and starting the "jam session" with a couple licks and then allowing the networks to generate new music. 
 
 ## Project Report
 
